@@ -1,3 +1,4 @@
+![instacart](https://github.com/richseiler/Python/assets/135394601/7b753470-4630-4137-9d9a-5bf582336ca6)
 # Instacart Grocery Basket Analysis
 This was a Data Analysis project performed in Python as part of the Career Foundry Data Analytics program.
 ## Objective
